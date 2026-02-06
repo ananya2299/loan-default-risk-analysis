@@ -1,8 +1,6 @@
-📉 Loan Default Prediction & Data Leakage Analysis
+Loan Default Prediction & Data Leakage Analysis
 
 1. Project Objective
-
-The objective of this project is to build a **loan default prediction model** while demonstrating **sound data science judgment**, not just high predictive performance.
 
 This project emphasizes:
 Understanding the credit risk domain
@@ -113,3 +111,4 @@ Coefficient-based explanations align with credit risk governance.
 Similar train and test performance indicates controlled variance and stability.
 
 In regulated domains like lending, a slightly weaker but trustworthy model is preferable to a stronger but fragile one.
+
